@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @e-ginger
+- 👀 I’m interested in Machine Learning.
+- 🌱 I’m currently studing DataScience.
